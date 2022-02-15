@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "shf-mobile-app",
-    "slug": "shf-mobile-app",
+    "name": "SHFMobileApp",
+    "slug": "SHFMobileApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
