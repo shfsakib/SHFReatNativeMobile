@@ -1,0 +1,4 @@
+1. expo i
+2. expo login --username name --password --pass
+3. expo --version
+4. expo init projectName [choose blank]
