@@ -12,7 +12,7 @@ const Stack = createNativeStackNavigator();
 const RootRoute = () => {
   return (
     <Stack.Navigator>
-      <Stack.Screen name='Index' component={Index} />
+      <Stack.Screen name='Index' component={Index} options={{ headerShown: false }} />
     </Stack.Navigator>
   )
 }
